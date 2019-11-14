@@ -9,6 +9,6 @@ namespace Demo_Website
         public string LastName {get;set;}
         public DateTime BirthDate{get;set;}
 
-        public double Height{get;set;}
+       
     }
 }
