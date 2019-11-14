@@ -9,6 +9,6 @@ namespace Demo_Website
         public string LastName {get;set;}
         public DateTime BirthDa{get;set;}
 
-       
+       public int x;
     }
 }
